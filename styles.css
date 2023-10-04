@@ -1,5 +1,21 @@
 .nav{
     background-color:#707E0C;
-    width: 50px;
+    width: 100%;
     height: 50px;
+
+    
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items : center;
+}
+a {
+    color: beige !important; 
+    text-decoration: none !important;
+}
+footer {
+    background-attachment: fixed;
+    background-color: #707E0C;
+    color: beige;
 }
