@@ -74,7 +74,7 @@
 
 }
 
-.precommande {
+.preoder {
     color: beige !important;
     text-decoration: none !important;
     background-color: #bc1454;
@@ -171,7 +171,7 @@ p {
     align-items: center;
 }
 
-.compteur {
+.counter {
     background-color: #ff0000;
     text-align: center;
     margin: 20px;
