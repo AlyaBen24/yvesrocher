@@ -31,7 +31,40 @@
         margin: 20px !important;
     }
 }
+@media screen and (max-width:820px) {
+    .header {
+        width: auto;
+        height: auto;
+    }
 
+    .header img {
+        width: 100%;
+        height: auto;
+    }
+
+    .global {
+        flex-direction: column;
+    }
+
+    .imgline {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #demo {
+        font-size: 36px;
+    }
+
+    .products {
+        flex-direction: column;
+    }
+
+    .form {
+        width: auto !important;
+        margin: 20px !important;
+    }
+
+}
 
 .nav {
     background-color: #707E0C;
